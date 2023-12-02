@@ -1,9 +1,18 @@
+import Form from "./components/Form"
+
 function App() {
 
   return (
-    <>
-      <h1 className="bg-gray-500 text-white">Inscreva-se!</h1>
-    </>
+    <div>
+        <h1>Inscreva-se!</h1>
+        <p>Fique ligado com nossa Newsletter</p>
+        
+        <div>
+            <Form />
+        </div>
+
+        <p>Aqui, você receberá e-mails com dicas, novidades e ofertas</p>
+    </div>
   )
 }
 
