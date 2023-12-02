@@ -3,7 +3,7 @@
 
  ### Demonstração do projeto
 
- [<img serc="./public/preview.gif" alt="visão geral do projeto">]
+ [<img src="./public/preview.gif" alt="visão geral do projeto">]
 
 ## Tecnologias utilizadas
 
